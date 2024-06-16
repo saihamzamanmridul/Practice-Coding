@@ -1,2 +1,3 @@
 # Practice-Coding
-Here I just practice paste many code in my university and Daily Life Learning
+Here I practice pasting many codes in my university and Daily Life Learning
+Author- Saiham Zaman Mridul.
